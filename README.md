@@ -1,2 +1,2 @@
-# Yahoo-ads-dashboard.
+# Yahoo-dashboard
 Yahoo!ショッピング ダッシュボード
